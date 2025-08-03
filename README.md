@@ -3,7 +3,7 @@
 ---
 
 ### 🌱 Currently Working On
-- 🧪 Building my **portfolio website** 
+- 🧪 Learning Diff things
 - 📈 Learning Data Analytics and making sense of rows and chaos
 
 ---
@@ -18,8 +18,6 @@
 }
 
 
-### 📈 GitHub Stats (because numbers are fun)
 
-![Aezaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+NOTE:-This Readme file is for trial and will be updated as time goes on Thank you
